@@ -15,7 +15,7 @@
 
 #### B. Flowchart  :
       
-      <img width="322" alt="t1" src="https://user-images.githubusercontent.com/47028610/53194615-5b5ddf00-3646-11e9-85af-767620b7b033.png">
+<img width="322" alt="t1" src="https://user-images.githubusercontent.com/47028610/53194615-5b5ddf00-3646-11e9-85af-767620b7b033.png">
 
 #### C. Program  :
 
@@ -27,7 +27,7 @@ Ketik seperti berikut :
                   print("Data ke", i+1,"=",(random.uniform(0.1,0.5)))
               print("selesai")
               
-              <img width="960" alt="tugas1" src="https://user-images.githubusercontent.com/47028610/53194661-7892ad80-3646-11e9-8560-0cc51cdf2138.png">
+ <img width="960" alt="tugas1" src="https://user-images.githubusercontent.com/47028610/53194661-7892ad80-3646-11e9-8560-0cc51cdf2138.png">
 
    # 1. Ketikan Program print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')#
       =>print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5') Untuk Menampilkan atau Mencetak kalimat *Tampilkan N Bilangan Acak          yang Lebih Kecil Dari 0.5
@@ -42,7 +42,7 @@ Ketik seperti berikut :
       
  #### D. Hasil :
  
-      <img width="957" alt="hasil 1" src="https://user-images.githubusercontent.com/47028610/53194684-8cd6aa80-3646-11e9-9311-d2efdf77fd35.png">
+ <img width="957" alt="hasil 1" src="https://user-images.githubusercontent.com/47028610/53194684-8cd6aa80-3646-11e9-9311-d2efdf77fd35.png">
       
       
  ## Latihan 2
@@ -61,7 +61,7 @@ Ketik seperti berikut :
    
 #### B. Flowchart :
 
-      <img width="187" alt="t2" src="https://user-images.githubusercontent.com/47028610/53194696-9e1fb700-3646-11e9-921b-194d443fb1b3.png">
+ <img width="187" alt="t2" src="https://user-images.githubusercontent.com/47028610/53194696-9e1fb700-3646-11e9-921b-194d443fb1b3.png">
 
 #### C. Program  :
 
@@ -76,7 +76,7 @@ Ketik seperti berikut :
                            break
                   print("\n Bilangan terbesar adalah :", max)
                   
-                  <img width="960" alt="tugas2" src="https://user-images.githubusercontent.com/47028610/53194713-ad066980-3646-11e9-8585-05c771822368.png">
+<img width="960" alt="tugas2" src="https://user-images.githubusercontent.com/47028610/53194713-ad066980-3646-11e9-8585-05c771822368.png">
                   
   # 1. Ketikan Program print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan')#
       =>print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan') Untuk menampilkan kalimat Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan
@@ -97,7 +97,7 @@ Ketik seperti berikut :
       
   #### D. Hasil  :
   
-        <img width="958" alt="hasil 2" src="https://user-images.githubusercontent.com/47028610/53194734-bc85b280-3646-11e9-9b4c-6502d41a38ba.png">
+<img width="958" alt="hasil 2" src="https://user-images.githubusercontent.com/47028610/53194734-bc85b280-3646-11e9-9b4c-6502d41a38ba.png">
         
   
   ## Program 1
@@ -116,7 +116,7 @@ Ketik seperti berikut :
           
   #### B. Flowchart :
   
-        <img width="280" alt="t3" src="https://user-images.githubusercontent.com/47028610/53194777-d1fadc80-3646-11e9-9d50-c827ef0ea05e.png">
+ <img width="280" alt="t3" src="https://user-images.githubusercontent.com/47028610/53194777-d1fadc80-3646-11e9-9d50-c827ef0ea05e.png">
   
   #### C. Program :
   
@@ -138,7 +138,7 @@ Ketik seperti berikut :
                       z= (a+b+c+d+e+f+g+h)
                       print ("\nJumlah Laba selama 8 bulan adalah :",z)
                       
-                      <img width="960" alt="tugas3" src="https://user-images.githubusercontent.com/47028610/53194819-e0e18f00-3646-11e9-82de-15ce882207c2.png">
+<img width="960" alt="tugas3" src="https://user-images.githubusercontent.com/47028610/53194819-e0e18f00-3646-11e9-82de-15ce882207c2.png">
 
    # 1. Ketikan Program print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')#
       =>print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan') Untuk Menampilkan kalimat *Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
@@ -159,7 +159,7 @@ Ketik seperti berikut :
       
  ### D. Hasil :
  
-      <img width="957" alt="hasil 3" src="https://user-images.githubusercontent.com/47028610/53194845-f0f96e80-3646-11e9-9b7a-372439eaf65c.png">
+<img width="957" alt="hasil 3" src="https://user-images.githubusercontent.com/47028610/53194845-f0f96e80-3646-11e9-9b7a-372439eaf65c.png">
 
  
  
