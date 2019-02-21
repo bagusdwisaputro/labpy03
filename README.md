@@ -30,19 +30,19 @@ Ketik seperti berikut :
  <img width="960" alt="tugas1" src="https://user-images.githubusercontent.com/47028610/53194661-7892ad80-3646-11e9-8560-0cc51cdf2138.png">
 
 1. Ketikan Program print ("Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5")
-=>print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5') Untuk Menampilkan atau Mencetak kalimat *Tampilkan N Bilangan Acak   yang Lebih Kecil Dari 0.5
+print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5') Untuk Menampilkan atau Mencetak kalimat *Tampilkan N Bilangan Acak   yang Lebih Kecil Dari 0.5
 
 2. Ketikan Program jumlah=int(input("Masukan Jumlah N : "))
-=>jumlah=int(input("Masukan Jumlah N : ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe            data bilangan bulat
+jumlah=int(input("Masukan Jumlah N : ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe            data bilangan bulat
 
 3. Ketikan Program import random
-=>import random Untuk pengulangan secara acak
+import random Untuk pengulangan secara acak
 
-4. Ketikan Program for i in range ( jumlah ) :#
-=>for i in range ( jumlah ) : Untuk Pengulangan dengan range jumlah
+4. Ketikan Program for i in range ( jumlah ) :
+for i in range ( jumlah ) : Untuk Pengulangan dengan range jumlah
 
 5. Ketikan Program print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5)))#
-=>print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5))) Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan            hasil di bawah 0.5
+print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5))) Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan            hasil di bawah 0.5
       
  #### D. Hasil :
  
